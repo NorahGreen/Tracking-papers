@@ -209,23 +209,42 @@ Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu
 Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
 [[paper]()]  [[code](https://github.com/Daikenan/LTMU)]
 
-+ 
++ P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds  
+Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao  
+[[paper]()]  [[code](https://github.com/HaozheQi/P2B)]
+
++ Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking  
+Peiliang Li, Jieqi Shi, Shaojie Shen  
 [[paper]()]  [[code]()]
 
-+ 
++ PnPNet: End-to-End Perception and Prediction With Tracking in the Loop  
+Ming Liang, Bin Yang, Wenyuan Zeng, Yun Chen, Rui Hu, Sergio Casas, Raquel Urtasun  
 [[paper]()]  [[code]()]
 
-+ 
++ MPM: Joint Representation of Motion and Position Map for Cell Tracking  
+Junya Hayashida, Kazuya Nishimura, Ryoma Bise  
+[[paper]()]  [[code](https://github.com/JunyaHayashida/MPM)]
+
++ Cooling-Shrinking Attack: Blinding the Tracker With Imperceptible Noises  
+Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang  
+[[paper]()]  [[code](https://github.com/MasterBin-IIAU/CSA)]
+
++ Cross-Modal Pattern-Propagation for RGB-T Tracking  
+Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang   
 [[paper]()]  [[code]()]
 
-+ 
++ Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar  
+Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jurgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide  
 [[paper]()]  [[code]()]
 
-+ 
++ 3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset  
+Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund  
+[[paper]()]  [[code](https://bitbucket.org/aauvap/3d-zef/src/master/)]
+
++ Learning to Optimize Non-Rigid Tracking  
+Yang Li, Aljaz Bozic, Tianwei Zhang, Yanli Ji, Tatsuya Harada, Matthias Niessner  
 [[paper]()]  [[code]()]
 
-+ 
-[[paper]()]  [[code]()]
 
 
 
