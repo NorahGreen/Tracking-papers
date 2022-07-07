@@ -111,6 +111,8 @@ Andreas Döring, Di Chen, Shanshan Zhang, Bernt Schiele, Jürgen Gall
 Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva Ramanan, Bastian Leibe, Laura Leal-Taixé    
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]  [[code](openworldtracking.github.io)]
 
+## CVPR 2021
+
 
 ## CVPR 2020
 
@@ -169,6 +171,10 @@ Zihang Lai, Erika Lu, Weidi Xie
 Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen
 [[paper]()]  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
 
++ Tracking by Instance Detection: A Meta-Learning Approach  
+Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng  
+[[paper](https://arxiv.org/pdf/2004.00830.pdf)]
+
 + Siamese Box Adaptive Network for Visual Tracking  
 Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji  
 [[paper]()]  [[code](https://github.com/hqucv/siamban)]
@@ -195,7 +201,7 @@ Jin Gao, Weiming Hu, Yan Lu
 
 + ROAM: Recurrently Optimizing Tracking Model  
 Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan  
-[[paper]()]  [[code](https://github.com/skyoung/ROAM)]
+[[paper](https://arxiv.org/pdf/1907.12006.pdf)]  [[code](https://github.com/skyoung/ROAM)]
 
 + One-Shot Adversarial Attacks on Visual Tracking With Dual Attention  
 Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji  
@@ -207,7 +213,7 @@ Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu
 
 + High-Performance Long-Term Tracking With Meta-Updater  
 Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
-[[paper]()]  [[code](https://github.com/Daikenan/LTMU)]
+[[paper](https://arxiv.org/pdf/2004.00305.pdf)]  [[code](https://github.com/Daikenan/LTMU)]
 
 + P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds  
 Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao  
@@ -215,7 +221,7 @@ Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao
 
 + Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking  
 Peiliang Li, Jieqi Shi, Shaojie Shen  
-[[paper]()]  [[code]()]
+[[paper](https://arxiv.org/pdf/2004.09305.pdf)]
 
 + PnPNet: End-to-End Perception and Prediction With Tracking in the Loop  
 Ming Liang, Bin Yang, Wenyuan Zeng, Yun Chen, Rui Hu, Sergio Casas, Raquel Urtasun  
@@ -231,7 +237,7 @@ Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang
 
 + Cross-Modal Pattern-Propagation for RGB-T Tracking  
 Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang   
-[[paper]()]  [[code]()]
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)]  [[code]()]
 
 + Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar  
 Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jurgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide  
