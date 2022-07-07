@@ -5,12 +5,12 @@
 Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel
 [[paper](https://arxiv.org/pdf/2203.05334.pdf)]  [[code](https://github.com/dlr-rm/3dobjecttracking)]
 
-+ Multi-Object Tracking Meets Moving UAV. CVPR 2022  
++ Multi-Object Tracking Meets Moving UAV. 
 Shuai Liu, Xin Li, Huchuan Lu, You He   
 [[paper](https://arxiv.org/pdf/2203.16210.pdf)][code] 
 
 + Transforming Model Prediction for Tracking
-Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool;
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool
 [[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]
 
 
