@@ -4,7 +4,18 @@
 + Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects
 Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel
 [[paper](https://arxiv.org/pdf/2203.05334.pdf)]  [[code](https://github.com/dlr-rm/3dobjecttracking)]
-[pdf] [supp] [arXiv] [bibtex]
+
++ Multi-Object Tracking Meets Moving UAV. CVPR 2022  
+Shuai Liu, Xin Li, Huchuan Lu, You He   
+[[paper](https://arxiv.org/pdf/2203.16210.pdf)][code] 
+
++ BEHAVE: Dataset and Method for Tracking Human Object Interactions
+Bharat Lal Bhatnagar, Xianghui Xie, Ilya A. Petrov, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll
+[[paper](https://arxiv.org/pdf/2204.06950.pdf)]  [[code](https://github.com/xiexh20/behave-dataset)]
+
+
+
+
 
 + Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
@@ -44,10 +55,7 @@ Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatt
 + LMGP: Lifted Multicut Meets Geometry Projections for Multi-Camera Multi-Object Tracking. CVPR 2022  
 Duy M. H. Nguyen, Roberto Henschel, Bodo Rosenhahn, Daniel Sonntag, Paul Swoboda   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_LMGP_Lifted_Multicut_Meets_Geometry_Projections_for_Multi-Camera_Multi-Object_Tracking_CVPR_2022_paper.pdf)][[code](https://github.com/nhmduy/LMGP)] 
-
-+ Multi-Object Tracking Meets Moving UAV. CVPR 2022  
-Shuai Liu, Xin Li, Huchuan Lu, You He   
-[[paper](https://arxiv.org/pdf/2203.16210.pdf)][code]   
+  
 
 + Learning of Global Objective for Network Flow in Multi-Object Tracking. CVPR 2022  
 Shuai Li, Yu Kong, Hamid Rezatofighi   
