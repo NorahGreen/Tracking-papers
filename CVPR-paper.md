@@ -112,6 +112,64 @@ Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva R
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]  [[code](openworldtracking.github.io)]
 
 
+## CVPR 2020
+
++ How to Train Your Deep Multi-Object Tracker  
+Yihong Xu, Aljosa Osep, Yutong Ban, Radu Horaud, Laura Leal-Taixe, Xavier Alameda-Pineda  
+[[paper]()]  [[code](https://github.com/yihongXU/deepMOT)]
+
++ Learning a Neural Solver for Multiple Object Tracking  
+Guillem Braso, Laura Leal-Taixe  
+[[paper]()]  [[code](https://github.com/dvl-tum/mot_neural_solver)]
+
++ GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning  
+Xinshuo Weng, Yongxin Wang, Yunze Man, Kris M. Kitani  
+[[paper]()]  [[code](https://github.com/xinshuoweng/GNN3DMOT)]
+
++ A Unified Object Motion and Affinity Model for Online Multi-Object Tracking  
+Junbo Yin, Wenguan Wang, Qinghao Meng, Ruigang Yang, Jianbing Shen  
+[[paper]()]  [[code](https://github.com/yinjunbo/UMA-MOT)]
+
++ Learning Multi-Object Tracking and Segmentation From Automatic Annotations  
+Lorenzo Porzi, Markus Hofinger, Idoia Ruiz, Joan Serrat, Samuel Rota Bulo, Peter Kontschieder  
+[[paper]()]  [[code]()]
+
++ SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking  
+Yanru Huang, Feiyu Zhu, Zheni Zeng, Xi Qiu, Yuan Shen, Jianan Wu.  
+[[paper]()]  [[code]()]
+
++ RetinaTrack: Online Single Stage Joint Detection and Tracking  
+Zhichao Lu, Vivek Rathod, Ronny Votel, Jonathan Huang  
+[[paper](https://arxiv.org/pdf/2003.13870.pdf)]  [[code](https://github.com/Hanson0910/RetinaTrack)]
+
++ State-Aware Tracker for Real-Time Video Object Segmentation  
+Xi Chen, Zuoxin Li, Ye Yuan, Gang Yu, Jianxin Shen, Donglian Qi  
+[[paper]()]  [[code](https://github.com/XavierCHEN34/State-Aware-Tracker)]
+
++ Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation  
+Gedas Bertasius, Lorenzo Torresani  
+[[paper]()]  [[code](https://gberta.github.io/maskprop/)]
+
++ Fast Template Matching and Update for Video Object Tracking and Segmentation  
+Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao  
+[[paper]()]  [[code](https://github.com/insomnia94/FTMU)]
+ 
++ Video Instance Segmentation Tracking With a Modified VAE Architecture  
+Chung-Ching Lin, Ying Hung, Rogerio Feris, Linglin He  
+
++ D3S - A Discriminative Single Shot Segmentation Tracker
+Alan Lukezic, Jiri Matas, Matej Kristan
+
+
+
+
+
+
+
+
+
+
+
 ## arXiv 2021
 
 + ByteTrack: Multi-Object Tracking by Associating Every Detection Box (arXiv 2021-10)  
