@@ -9,9 +9,9 @@ Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel
 Shuai Liu, Xin Li, Huchuan Lu, You He   
 [[paper](https://arxiv.org/pdf/2203.16210.pdf)][code] 
 
-+ BEHAVE: Dataset and Method for Tracking Human Object Interactions
-Bharat Lal Bhatnagar, Xianghui Xie, Ilya A. Petrov, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll
-[[paper](https://arxiv.org/pdf/2204.06950.pdf)]  [[code](https://github.com/xiexh20/behave-dataset)]
++ Transforming Model Prediction for Tracking
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool;
+[[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]
 
 
 
