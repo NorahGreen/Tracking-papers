@@ -157,8 +157,60 @@ Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao
 + Video Instance Segmentation Tracking With a Modified VAE Architecture  
 Chung-Ching Lin, Ying Hung, Rogerio Feris, Linglin He  
 
-+ D3S - A Discriminative Single Shot Segmentation Tracker
-Alan Lukezic, Jiri Matas, Matej Kristan
++ D3S - A Discriminative Single Shot Segmentation Tracker  
+Alan Lukezic, Jiri Matas, Matej Kristan  
+[[paper](https://arxiv.org/pdf/1911.08862.pdf)]  [[code](https://github.com/alanlukezic/d3s)]
+
++ MAST: A Memory-Augmented Self-Supervised Tracker  
+Zihang Lai, Erika Lu, Weidi Xie  
+[[paper]()]  [[code](https://github.com/zlai0/MAST)]
+
++ SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking
+Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen
+[[paper]()]  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
+
++ Siamese Box Adaptive Network for Visual Tracking  
+Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji  
+[[paper]()]  [[code](https://github.com/hqucv/siamban)]
+
++ Deformable Siamese Attention Networks for Visual Object Tracking  
+Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott  
+[[paper]()]  [[code]()]
+
++ Correlation-Guided Attention for Corner Detection Based Visual Tracking  
+Fei Du, Peng Liu, Wei Zhao, Xianglong Tang  
+[[paper]()]  [[code]()]
+
++ Siam R-CNN: Visual Tracking by Re-Detection  
+Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe  
+[[paper]()]  [[code]()]
+
++ Probabilistic Regression for Visual Tracking  
+Martin Danelljan, Luc Van Gool, Radu Timofte  
+[[paper]()]  [[code](https://github.com/visionml/pytracking)]
+
++ Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking  
+Jin Gao, Weiming Hu, Yan Lu  
+[[paper]()]  [[code](https://github.com/Amgao/RLS-RTMDNet)]
+
++ ROAM: Recurrently Optimizing Tracking Model  
+Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan  
+[[paper]()]  [[code](https://github.com/skyoung/ROAM)]
+
++ 
+[[paper]()]  [[code]()]
+
++ 
+[[paper]()]  [[code]()]
+
++ 
+[[paper]()]  [[code]()]
+
++ 
+[[paper]()]  [[code]()]
+
+
+
 
 
 
