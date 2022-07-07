@@ -197,6 +197,18 @@ Jin Gao, Weiming Hu, Yan Lu
 Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan  
 [[paper]()]  [[code](https://github.com/skyoung/ROAM)]
 
++ One-Shot Adversarial Attacks on Visual Tracking With Dual Attention  
+Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji  
+[[paper]()]  [[code]()]
+
++ AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization  
+Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu  
+[[paper]()]  [[code](https://github.com/vision4robotics/AutoTrack)]
+
++ High-Performance Long-Term Tracking With Meta-Updater  
+Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
+[[paper]()]  [[code](https://github.com/Daikenan/LTMU)]
+
 + 
 [[paper]()]  [[code]()]
 
@@ -209,15 +221,18 @@ Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan
 + 
 [[paper]()]  [[code]()]
 
++ 
+[[paper]()]  [[code]()]
+
++ 
+[[paper]()]  [[code]()]
 
 
 
 
+## CVPR 2019
 
-
-
-
-
+## CVPR 2018
 
 
 
