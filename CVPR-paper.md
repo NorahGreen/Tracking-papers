@@ -1,21 +1,25 @@
 # Papers
 
 ## CVPR 2022
-+ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects
-Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel
++ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects. 
+Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel    
 [[paper](https://arxiv.org/pdf/2203.05334.pdf)]  [[code](https://github.com/dlr-rm/3dobjecttracking)]
 
 + Multi-Object Tracking Meets Moving UAV. 
 Shuai Liu, Xin Li, Huchuan Lu, You He   
 [[paper](https://arxiv.org/pdf/2203.16210.pdf)][code] 
 
-+ Transforming Model Prediction for Tracking
-Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool
++ Transforming Model Prediction for Tracking.
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool    
 [[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]
 
 
 
 
+
++ Global Tracking Transformers. CVPR 2022  
+Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
+[[paper](https://arxiv.org/pdf/2203.13250.pdf)] [[code](https://github.com/xingyizhou/GTR)] 
 
 + Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
