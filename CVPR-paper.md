@@ -617,6 +617,46 @@ Brandon M. Smith, Matthew O'Toole, Mohit Gupta
 Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan  
 [[paper](https://arxiv.org/pdf/1711.01124v4.pdf)]
 
++ Efficient Diverse Ensemble for Discriminative Co-Tracking  
+Kourosh Meshgi, Shigeyuki Oba, Shin Ishii  
+[[paper](https://arxiv.org/pdf/1711.06564v2.pdf)]
+
++ A Twofold Siamese Network for Real-Time Object Tracking  
+Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng  
+[[paper](https://arxiv.org/pdf/1802.08817v1.pdf)]  [[code](https://github.com/Microsoft/SA-Siam)]
+
++ Multi-Cue Correlation Filters for Robust Visual Tracking  
+Ning Wang, Wengang Zhou, Qi Tian, Richang Hong, Meng Wang, Houqiang Li  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Multi-Cue_Correlation_Filters_CVPR_2018_paper.pdf)]
+
++ Learning Attentions: Residual Attentional Siamese Network for High Performance Online Visual Tracking  
+Qiang Wang, Zhu Teng, Junliang Xing, Jin Gao, Weiming Hu, Stephen Maybank  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Attentions_Residual_CVPR_2018_paper.pdf)]
+
++ High-speed Tracking with Multi-kernel Correlation Filters  
+Ming Tang, Bin Yu, Fan Zhang, Jinqiao Wang  
+[[paper](https://arxiv.org/pdf/1806.06418v1.pdf)]
+
++ SINT++: Robust Visual Tracking via Adversarial Positive Instance Generation  
+Xiao Wang, Chenglong Li, Bin Luo, Jin Tang  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_SINT_Robust_Visual_CVPR_2018_paper.pdf)]
+
++ Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking  
+Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang 
+[[paper](https://arxiv.org/pdf/1803.08679v1.pdf)]  [[code](https://github.com/lifeng9472/STRCF)]
+
++ Learning Spatial-Aware Regressions for Visual Tracking  
+Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang  
+[[paper](https://arxiv.org/pdf/1706.07457.pdf)]  [[code](https://github.com/cswaynecool/LSART)]
+
++ High Performance Visual Tracking With Siamese Region Proposal Network  
+Bo Li, Junjie Yan, Wei Wu, Zheng Zhu, Xiaolin Hu  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)]
+
++ VITAL: VIsual Tracking via Adversarial Learning  
+Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang  
+[[code](https://arxiv.org/pdf/1804.04273.pdf)]
+
 ### Pose tracking
 + GANerated Hands for Real-time 3D Hand Tracking from Monocular RGB  
 Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt [[paper](https://arxiv.org/pdf/1712.01057v1.pdf)]
@@ -632,21 +672,18 @@ Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeou
 Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang  
 [[paper](https://arxiv.org/pdf/1804.08965.pdf)]  [[code](https://github.com/cswaynecool/DRT)]
 
-+ 
++ PoseTrack: A Benchmark for Human Pose Estimation and Tracking  
+Mykhaylo Andriluka, Umar Iqbal, Eldar Insafutdinov, Leonid Pishchulin, Anton Milan, Juergen Gall, Bernt Schiele
+[[paper](https://arxiv.org/pdf/1710.10000.pdf)]  [[code](https://github.com/open-mmlab/mmpose)]
 
-[[paper]()]  [[code]()]
+### 3D
++ Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting With a Single Convolutional Net  
+Wenjie Luo, Bin Yang, Raquel Urtasun  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)]
 
-[[paper]()]  [[code]()]
-
-[[paper]()]  [[code]()]
-
-[[paper]()]  [[code]()]
-
-[[paper]()]  [[code]()]
-
-[[paper]()]  [[code]()]
-
-
++ Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies  
+Hanbyul Joo, Tomas Simon, Yaser Sheikh  
+[[paper](https://arxiv.org/pdf/1801.01615.pdf)]
 
 ## arXiv 2021
 
@@ -805,31 +842,6 @@ Rey Reza Wiyatno, Anqi Xu
 Peng Chu, Haibin Ling  
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_FAMNet_Joint_Learning_of_Feature_Affinity_and_Multi-Dimensional_Assignment_for_ICCV_2019_paper.pdf)] [[code]()]
 
-
-
-
-
-## CVPR 2018
-
-+ Towards Dense Object Tracking in a 2D Honeybee Hive.  
-Katarzyna Bozek, Laetitia Hebert, Alexander S. Mikheyev, Greg J. Stephens  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking.  
-Akash Bapat, True Price, Jan-Michael Frahm  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes.  
-Weihong Ren, Di Kang, Yandong Tang, Antoni B. Chan  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Fusing_Crowd_Density_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Features for Multi-Target Multi-Camera Tracking and Re-Identification.  
-Ergys Ristani, Carlo Tomasi  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Tracking Multiple Objects Outside the Line of Sight Using Speckle Imaging.  
-Brandon M. Smith, Matthew O'Toole, Mohit Gupta  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Smith_Tracking_Multiple_Objects_CVPR_2018_paper.pdf)] [[code]()]
 
 ## ICCV 2017
 
