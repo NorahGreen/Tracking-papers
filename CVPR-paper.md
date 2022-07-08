@@ -587,6 +587,64 @@ Ming-Fang Chang, John Lambert, Patsorn Sangkloy, Jagjeet Singh, Slawomir Bak, An
 
 ## CVPR 2018
 
+### MOT
++ A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos  
+Chung-Ching Lin, Ying Hung  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_A_Prior-Less_Method_CVPR_2018_paper.pdf)]  [[code]()]
+
++ Towards Dense Object Tracking in a 2D Honeybee Hive.  
+Katarzyna Bozek, Laetitia Hebert, Alexander S. Mikheyev, Greg J. Stephens  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)] [[code]()]
+
++ Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking.  
+Akash Bapat, True Price, Jan-Michael Frahm  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)] [[code]()]
+
++ Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes.  
+Weihong Ren, Di Kang, Yandong Tang, Antoni B. Chan  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Fusing_Crowd_Density_CVPR_2018_paper.pdf)] [[code]()]
+
++ Features for Multi-Target Multi-Camera Tracking and Re-Identification.  
+Ergys Ristani, Carlo Tomasi  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)] [[code]()]
+
++ Tracking Multiple Objects Outside the Line of Sight Using Speckle Imaging.  
+Brandon M. Smith, Matthew O'Toole, Mohit Gupta  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Smith_Tracking_Multiple_Objects_CVPR_2018_paper.pdf)] [[code]()]
+
+### Object tracking
++ End-to-end Flow Correlation Tracking with Spatial-temporal Attention  
+Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan  
+[[paper](https://arxiv.org/pdf/1711.01124v4.pdf)]
+
+### Pose tracking
++ GANerated Hands for Real-time 3D Hand Tracking from Monocular RGB  
+Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt [[paper](https://arxiv.org/pdf/1712.01057v1.pdf)]
+
++ Detect-and-Track: Efficient Pose Estimation in Videos  
+Rohit Girdhar, Georgia Gkioxari, Lorenzo Torresani, Manohar Paluri, Du Tran  
+[[paper](https://arxiv.org/pdf/1712.09184.pdf)]  [[code](facebookresearch/DetectAndTrack)]
+
++ Context-aware Deep Feature Compression for High-speed Visual Tracking  
+Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi  [[paper](https://arxiv.org/pdf/1803.10537.pdf)]  [[code](https://github.com/jongwon20000/TRACA)]
+
++ Correlation Tracking via Joint Discrimination and Reliability Learning  
+Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang  
+[[paper](https://arxiv.org/pdf/1804.08965.pdf)]  [[code](https://github.com/cswaynecool/DRT)]
+
++ 
+
+[[paper]()]  [[code]()]
+
+[[paper]()]  [[code]()]
+
+[[paper]()]  [[code]()]
+
+[[paper]()]  [[code]()]
+
+[[paper]()]  [[code]()]
+
+[[paper]()]  [[code]()]
 
 
 
