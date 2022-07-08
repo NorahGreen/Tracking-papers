@@ -138,7 +138,7 @@ Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu
 [[paper](https://arxiv.org/pdf/2203.01885.pdf)]  [[code](https://github.com/vision4robotics/tctrack)]
 
 + Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline  
-Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. 
+Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
 [[paper](https://arxiv.org/pdf/2204.04120.pdf)]
 
 ### Point clouds
