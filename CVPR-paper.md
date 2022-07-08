@@ -116,6 +116,8 @@ Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva R
 
 ## CVPR 2020
 
+# MOT
+
 + How to Train Your Deep Multi-Object Tracker  
 Yihong Xu, Aljosa Osep, Yutong Ban, Radu Horaud, Laura Leal-Taixe, Xavier Alameda-Pineda  
 [[paper]()]  [[code](https://github.com/yihongXU/deepMOT)]
@@ -167,6 +169,7 @@ Alan Lukezic, Jiri Matas, Matej Kristan
 Zihang Lai, Erika Lu, Weidi Xie  
 [[paper]()]  [[code](https://github.com/zlai0/MAST)]
 
+# SOT
 + SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking
 Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen
 [[paper]()]  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
@@ -211,10 +214,12 @@ Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong
 Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu  
 [[paper]()]  [[code](https://github.com/vision4robotics/AutoTrack)]
 
+# long-term
 + High-Performance Long-Term Tracking With Meta-Updater  
 Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
 [[paper](https://arxiv.org/pdf/2004.00305.pdf)]  [[code](https://github.com/Daikenan/LTMU)]
 
+# 3D tracking
 + P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds  
 Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao  
 [[paper]()]  [[code](https://github.com/HaozheQi/P2B)]
@@ -227,26 +232,22 @@ Peiliang Li, Jieqi Shi, Shaojie Shen
 Ming Liang, Bin Yang, Wenyuan Zeng, Yun Chen, Rui Hu, Sergio Casas, Raquel Urtasun  
 [[paper]()]  [[code]()]
 
-+ MPM: Joint Representation of Motion and Position Map for Cell Tracking  
-Junya Hayashida, Kazuya Nishimura, Ryoma Bise  
-[[paper]()]  [[code](https://github.com/JunyaHayashida/MPM)]
-
+# Robustness 
 + Cooling-Shrinking Attack: Blinding the Tracker With Imperceptible Noises  
 Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang  
 [[paper]()]  [[code](https://github.com/MasterBin-IIAU/CSA)]
 
+# Infrared
 + Cross-Modal Pattern-Propagation for RGB-T Tracking  
 Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang   
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)]  [[code]()]
 
+# radar
 + Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar  
 Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jurgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide  
 [[paper]()]  [[code]()]
 
-+ 3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset  
-Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund  
-[[paper]()]  [[code](https://bitbucket.org/aauvap/3d-zef/src/master/)]
-
+# ？
 + Learning to Optimize Non-Rigid Tracking  
 Yang Li, Aljaz Bozic, Tianwei Zhang, Yanli Ji, Tatsuya Harada, Matthias Niessner  
 [[paper]()]  [[code]()]
