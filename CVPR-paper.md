@@ -1,63 +1,25 @@
 # Papers
 
 ## CVPR 2022
-+ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects  
-Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel  
-[[paper](https://arxiv.org/pdf/2203.05334.pdf)]  [[code](https://github.com/dlr-rm/3dobjecttracking)]
 
+### MOT
 + Multi-Object Tracking Meets Moving UAV  
 Shuai Liu, Xin Li, Huchuan Lu, You He   
 [[paper](https://arxiv.org/pdf/2203.16210.pdf)]
-
-+ Transforming Model Prediction for Tracking  
-Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool     
-[[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]  
 
 + MeMOT: Multi-Object Tracking with Memory. CVPR 2022   
 Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatto     
 [[paper](https://arxiv.org/pdf/2203.16761.pdf)]
 
-+ Global Tracking Transformers. CVPR 2022  
-Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
-[[paper](https://arxiv.org/pdf/2203.13250.pdf)]  [[code](https://github.com/xingyizhou/GTR)] 
-
-+ BCOT: A Markerless High-Precision 3D Object Tracking Benchmark.  
-Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jason Gu, Xueying Qin  
-[[paper](https://arxiv.org/pdf/2203.13437.pdf)]
-
-+ Unsupervised Learning of Accurate Siamese Tracking. 
-Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang  
-[[paper](https://arxiv.org/pdf/2204.01475.pdf)]  [[code](https://github.com/florinshum/ulast)]
++ Adiabatic Quantum Computing for Multi Object Tracking. CVPR 2022  
+Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf)]  
 
 + Unified Transformer Tracker for Object Tracking. 
 Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan  
 [[paper](https://arxiv.org/pdf/2203.15175.pdf)]  [[code](https://github.com/flowerfan/trackron)]
 
-+ Spiking Transformers for Event-Based Single Object Tracking. 
-Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang  
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]  [[code](https://github.com/Jee-King/CVPR2022_STNet)]  
-
-+ Unsupervised Domain Adaptation for Nighttime Aerial Tracking. 
-Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen  
-[[paper](https://arxiv.org/pdf/2203.10541.pdf)]  [[code](https://github.com/vision4robotics/udat)]
-
-+ TCTrack: Temporal Contexts for Aerial Tracking  
-Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu  
-[[paper](https://arxiv.org/pdf/2203.01885.pdf)]  [[code](https://github.com/vision4robotics/tctrack)]
-
-+ Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving  
-Peixuan Li, Jieyu Jin  
-[[paper](https://arxiv.org/pdf/2205.14882.pdf)]
-
-+ Adiabatic Quantum Computing for Multi Object Tracking. CVPR 2022  
-Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf)]  
-
-
-
-
-
-+ Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking (arXiv 2022-03)  
++ Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking
 Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani   
 [[paper](https://arxiv.org/pdf/2203.14360.pdf)]  [[code](https://github.com/noahcao/OC_SORT)]
 
@@ -65,12 +27,9 @@ Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani
 Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang   
 [[paper](https://arxiv.org/pdf/2203.16621.pdf)]  [code]  
 
-## CVPR 2022  
-
-
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
 Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo   
-[[paper](https://arxiv.org/abs/2111.14690)] [[code](https://github.com/DanceTrack/DanceTrack)]
+[[paper](https://arxiv.org/abs/2111.14690)]  [[code](https://github.com/DanceTrack/DanceTrack)]
   <details>
     <summary>Notes</summary>
      <img src="imgs/mot/dancetrack.png" width = "643" height = "242" alt="referformer" align=center />  
@@ -79,37 +38,118 @@ Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo
          - Proposing a large-scale dataset for multi-human tracking, where humans have similar appearance, diverse motion and extreme articulation.
          - Benchmarking several state-of-the-art trackers on the proposed dataset.
     </details>
-
-
-+ Global Tracking Transformers. CVPR 2022  
-Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
-[[paper](https://arxiv.org/pdf/2203.13250.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
-
-
-+ LMGP: Lifted Multicut Meets Geometry Projections for Multi-Camera Multi-Object Tracking. CVPR 2022  
-Duy M. H. Nguyen, Roberto Henschel, Bodo Rosenhahn, Daniel Sonntag, Paul Swoboda   
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_LMGP_Lifted_Multicut_Meets_Geometry_Projections_for_Multi-Camera_Multi-Object_Tracking_CVPR_2022_paper.pdf)][[code](https://github.com/nhmduy/LMGP)] 
-  
-
-+ Learning of Global Objective for Network Flow in Multi-Object Tracking. CVPR 2022  
-Shuai Li, Yu Kong, Hamid Rezatofighi   
-[paper][code]   
-
+    
 + Towards Discriminative Representation: Multi-View Trajectory Contrastive Learning for Online Multi-Object Tracking. CVPR 2022  
 En Yu, Zhuoling Li, Shoudong Han   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Discriminative_Representation_Multi-View_Trajectory_Contrastive_Learning_for_Online_Multi-Object_CVPR_2022_paper.pdf)] [[code](https://github.com/xingyizhou/GTR)]  
 
++ LMGP: Lifted Multicut Meets Geometry Projections for Multi-Camera Multi-Object Tracking. CVPR 2022  
+Duy M. H. Nguyen, Roberto Henschel, Bodo Rosenhahn, Daniel Sonntag, Paul Swoboda   
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_LMGP_Lifted_Multicut_Meets_Geometry_Projections_for_Multi-Camera_Multi-Object_Tracking_CVPR_2022_paper.pdf)]  [[code](https://github.com/nhmduy/LMGP)]
+
 + TrackFormer: Multi-Object Tracking with Transformers. CVPR 2022  
 Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer.  
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/timmeinhardt/trackformer)] 
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf)]  [[code](https://github.com/timmeinhardt/trackformer)] 
+
++ Learning of Global Objective for Network Flow in Multi-Object Tracking. CVPR 2022  
+Shuai Li, Yu Kong, Hamid Rezatofighi   
+[[paper](https://arxiv.org/pdf/2203.16210.pdf)]  
 
 + PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking. CVPR 2022  
 Andreas Döring, Di Chen, Shanshan Zhang, Bernt Schiele, Jürgen Gall  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.pdf)] [[code](https://github.com/andoer/PoseTrack21)] 
 
+### SOT
++ Global Tracking Transformers. CVPR 2022  
+Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
+[[paper](https://arxiv.org/pdf/2203.13250.pdf)]  [[code](https://github.com/xingyizhou/GTR)] 
+
++ Transforming Model Prediction for Tracking  
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool     
+[[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]  
+
++ Spiking Transformers for Event-Based Single Object Tracking. 
+Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]  [[code](https://github.com/Jee-King/CVPR2022_STNet)]  
+
++ Unsupervised Learning of Accurate Siamese Tracking. 
+Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang  
+[[paper](https://arxiv.org/pdf/2204.01475.pdf)]  [[code](https://github.com/florinshum/ulast)]
+
++ Correlation-Aware Deep Tracking  
+Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng  
+[[paper](https://arxiv.org/pdf/2203.01666.pdf)]
+
++ Transformer Tracking with Cyclic Shifting Window Attention  
+Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang  
+[[paper](https://arxiv.org/pdf/2205.03806.pdf)]  [[code](https://github.com/skyesong38/cswintt)]
+
++ MixFormer: End-to-End Tracking with Iterative Mixed Attention  
+Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu  
+[[paper](https://arxiv.org/pdf/2203.11082.pdf)]  [[code](https://github.com/MCG-NJU/MixFormer)]
+
++ GridShift: A Faster Mode-Seeking Algorithm for Image Segmentation and Object Tracking  
+Abhishek Kumar, Oladayo S. Ajani, Swagatam Das, Rammohan Mallipeddi  
+[[paper](https://arxiv.org/pdf/2205.11761.pdf)]  [[code](https://github.com/sansanfree/rbo)] 
+
+### 3D tracking
++ Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects  
+Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel  
+[[paper](https://arxiv.org/pdf/2203.05334.pdf)]  [[code](https://github.com/dlr-rm/3dobjecttracking)]
+
++ BCOT: A Markerless High-Precision 3D Object Tracking Benchmark.  
+Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jason Gu, Xueying Qin  
+[[paper](https://arxiv.org/pdf/2203.13437.pdf)]
+
++ Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving  
+Peixuan Li, Jieyu Jin  
+[[paper](https://arxiv.org/pdf/2205.14882.pdf)]
+
+
+### Human Object and pose tracking
++ BEHAVE: Dataset and Method for Tracking Human Object Interactions  
+Bharat Lal Bhatnagar, Xianghui Xie, Ilya A. Petrov, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll  
+[[paper](https://arxiv.org/pdf/2204.06950.pdf)]  [[code](https://github.com/xiexh20/behave-dataset)] 
+
++ Tracking People by Predicting 3D Appearance, Location and Pose  
+Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rajasegaran_Tracking_People_by_Predicting_3D_Appearance_Location_and_Pose_CVPR_2022_paper.pdf)]
+
++ Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild. 
+Mingzhen Huang, Supreeth Narasimhaswamy, Saif Vazir, Haibin Ling, Minh Hoai  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.pdf)]
+
++ Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors  
+Xinyu Yi, Yuxiao Zhou, Marc Habermann, Soshi Shimada, Vladislav Golyanik, Christian Theobalt, Feng Xu  
+[[paper](https://arxiv.org/pdf/2203.08528.pdf)]  [[code]()] 
+
+### robustness
 + Opening up Open-World Tracking. CVPR 2022    
 Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Aljoša Ošep, Deva Ramanan, Bastian Leibe, Laura Leal-Taixé    
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf)]  [[code](openworldtracking.github.io)]
+
+### Aerial Tracking
++ Unsupervised Domain Adaptation for Nighttime Aerial Tracking. 
+Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen  
+[[paper](https://arxiv.org/pdf/2203.10541.pdf)]  [[code](https://github.com/vision4robotics/udat)]
+
++ TCTrack: Temporal Contexts for Aerial Tracking  
+Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu  
+[[paper](https://arxiv.org/pdf/2203.01885.pdf)]  [[code](https://github.com/vision4robotics/tctrack)]
+
++ Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline  
+Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan. 
+[[paper](https://arxiv.org/pdf/2204.04120.pdf)]
+
+### point cloud
++ PTTR: Relational 3D Point Cloud Object Tracking With Transformer  
+Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, Shijian Lu  
+[[paper](https://arxiv.org/pdf/2112.02857.pdf)]  [[code](https://github.com/jasonkks/pttr)] 
+
++ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds  
+Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li  
+[[paper](https://arxiv.org/pdf/2203.01730.pdf)]  [[code](https://github.com/ghostish/open3dsot)] 
+
 
 ## CVPR 2021
 
