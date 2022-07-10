@@ -40,7 +40,7 @@ Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool
 [[paper](https://arxiv.org/abs/2107.12085)]  [[code](https://github.com/tsingqguo/ABA)]
 
 + Learn to Match: Automatic Matching Network Design for Visual Tracking
-[[paper](https://arxiv.org/abs/2108.00803)]<br>:star:[code](https://github.com/JudasDie/SOTS)
+[[paper](https://arxiv.org/abs/2108.00803)]  [[code](https://github.com/JudasDie/SOTS)]
 
 + Video Annotation for Visual Tracking via Selection and Refinement
 [[paper](https://arxiv.org/abs/2108.03821)]  [[code](https://github.com/Daikenan/VASR)]
