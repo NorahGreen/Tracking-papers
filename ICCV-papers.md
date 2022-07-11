@@ -10,7 +10,7 @@ Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cu
 [[paper](https://arxiv.org/pdf/2108.04728.pdf)]  [[code](https://github.com/Ghostish/BAT)]
 
 + Learning to Track Objects from Unlabeled Videos  
-Jilai Zheng1, Chao Ma, Houwen Peng, Xiaokang Yang  
+Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang  
 [[paper](https://arxiv.org/abs/2108.12711)]  [[code](https://github.com/VISION-SJTU/USOT)]
 
 + DepthTrack : Unveiling the Power of RGBD Tracking  
@@ -74,6 +74,7 @@ Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li
 
 ### 3D MOT
 + Exploring Simple 3D Multi-Object Tracking for Autonomous Driving 
+Chenxu Luo, Xiaodong Yang, Alan Yuille  
 [[paper](https://arxiv.org/abs/2108.10312)]  [[code](https://github.com/qcraftai/simtrack)]
 
 ### MOT
@@ -100,7 +101,8 @@ Shuai Wang, Hao Sheng, Yang Zhang, Yubin Wu,, Zhang Xiong
 Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Continuous_Copy-Paste_for_One-Stage_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf)]  [[code](https://github.com/detectRecog/CCP)]
 
-+ Making Higher Order MOT Scalable: An Efficient Approximate Solver for Lifted Disjoint Paths
++ Making Higher Order MOT Scalable: An Efficient Approximate Solver for Lifted Disjoint Paths  
+Andrea Hornakova, Timo Kaiser, Paul Swoboda, Michal Rolinek, Bodo Rosenhahn, Roberto Henschel  
 [[paper](https://arxiv.org/abs/2108.10606)]  [[code](https://github.com/TimoK93/ApLift)]
 
 + MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking  
@@ -108,7 +110,8 @@ Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gaspar
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
 ### Video Object Detection
-+ TF-Blender: Temporal Feature Blender for Video Object Detection]
++ TF-Blender: Temporal Feature Blender for Video Object Detection  
+Yiming Cui, Liqi Yan, Zhiwen Cao, Dongfang Liu  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_TF-Blender_Temporal_Feature_Blender_for_Video_Object_Detection_ICCV_2021_paper.pdf)]  [[code](https://github.com/goodproj13/TF-Blender)]
 
 ### Pose Tracking
