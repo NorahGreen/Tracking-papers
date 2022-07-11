@@ -124,8 +124,8 @@ Manuel Kaufmann, Yi Zhao, Chengcheng Tang, Lingling Tao, Christopher Twigg, Jie 
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kaufmann_EM-POSE_3D_Human_Pose_Estimation_From_Sparse_Electromagnetic_Trackers_ICCV_2021_paper.pdf)]
 
 ## ICCV 2019
-Tracking Without Bells and Whistles  
-Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe
++ Tracking Without Bells and Whistles  
+Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe  
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf)]
 
 + 'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking  
