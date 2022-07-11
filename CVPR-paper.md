@@ -1,6 +1,37 @@
 # Papers
 
 ## CVPR 2022
++ Global Tracking Transformers. CVPR 2022  
+Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
+[[paper](https://arxiv.org/pdf/2203.13250.pdf)]  [[code](https://github.com/xingyizhou/GTR)] 
+
++ Transforming Model Prediction for Tracking  
+Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool     
+[[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]  
+
++ Spiking Transformers for Event-Based Single Object Tracking. 
+Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang  
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]  [[code](https://github.com/Jee-King/CVPR2022_STNet)]  
+
++ Unsupervised Learning of Accurate Siamese Tracking. 
+Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang  
+[[paper](https://arxiv.org/pdf/2204.01475.pdf)]  [[code](https://github.com/florinshum/ulast)]
+
++ Correlation-Aware Deep Tracking  
+Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng  
+[[paper](https://arxiv.org/pdf/2203.01666.pdf)]
+
++ Transformer Tracking with Cyclic Shifting Window Attention  
+Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang  
+[[paper](https://arxiv.org/pdf/2205.03806.pdf)]  [[code](https://github.com/skyesong38/cswintt)]
+
++ MixFormer: End-to-End Tracking with Iterative Mixed Attention  
+Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu  
+[[paper](https://arxiv.org/pdf/2203.11082.pdf)]  [[code](https://github.com/MCG-NJU/MixFormer)]
+
++ GridShift: A Faster Mode-Seeking Algorithm for Image Segmentation and Object Tracking  
+Abhishek Kumar, Oladayo S. Ajani, Swagatam Das, Rammohan Mallipeddi  
+[[paper](https://arxiv.org/pdf/2205.11761.pdf)]  [[code](https://github.com/sansanfree/rbo)] 
 
 ### MOT
 + Multi-Object Tracking Meets Moving UAV  
@@ -15,7 +46,7 @@ Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatt
 Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool   
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf)]  
 
-+ Unified Transformer Tracker for Object Tracking. 
++ Unified Transformer Tracker for Object Tracking  
 Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan  
 [[paper](https://arxiv.org/pdf/2203.15175.pdf)]  [[code](https://github.com/flowerfan/trackron)]
 
@@ -24,7 +55,7 @@ Jinkun Cao, Xinshuo Weng, Rawal Khirodkar, Jiangmiao Pang, Kris Kitani
 [[paper](https://arxiv.org/pdf/2203.14360.pdf)]  [[code](https://github.com/noahcao/OC_SORT)]
 
 + TR-MOT: Multi-Object Tracking by Reference (arXiv 2022-03)  
-Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang   
+Mingfei Chen, Yue Liao, Si Liu, Fei Wang, Jenq-Neng Hwang  
 [[paper](https://arxiv.org/pdf/2203.16621.pdf)]  [code]  
 
 + DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion. CVPR 2022  
@@ -59,38 +90,6 @@ Shuai Li, Yu Kong, Hamid Rezatofighi
 Andreas Döring, Di Chen, Shanshan Zhang, Bernt Schiele, Jürgen Gall  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.pdf)] [[code](https://github.com/andoer/PoseTrack21)] 
 
-### SOT
-+ Global Tracking Transformers. CVPR 2022  
-Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
-[[paper](https://arxiv.org/pdf/2203.13250.pdf)]  [[code](https://github.com/xingyizhou/GTR)] 
-
-+ Transforming Model Prediction for Tracking  
-Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool     
-[[paper](https://arxiv.org/pdf/2203.11192.pdf)]  [[code](https://github.com/visionml/pytracking)]  
-
-+ Spiking Transformers for Event-Based Single Object Tracking. 
-Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang  
-[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]  [[code](https://github.com/Jee-King/CVPR2022_STNet)]  
-
-+ Unsupervised Learning of Accurate Siamese Tracking. 
-Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang  
-[[paper](https://arxiv.org/pdf/2204.01475.pdf)]  [[code](https://github.com/florinshum/ulast)]
-
-+ Correlation-Aware Deep Tracking  
-Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng  
-[[paper](https://arxiv.org/pdf/2203.01666.pdf)]
-
-+ Transformer Tracking with Cyclic Shifting Window Attention  
-Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang  
-[[paper](https://arxiv.org/pdf/2205.03806.pdf)]  [[code](https://github.com/skyesong38/cswintt)]
-
-+ MixFormer: End-to-End Tracking with Iterative Mixed Attention  
-Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu  
-[[paper](https://arxiv.org/pdf/2203.11082.pdf)]  [[code](https://github.com/MCG-NJU/MixFormer)]
-
-+ GridShift: A Faster Mode-Seeking Algorithm for Image Segmentation and Object Tracking  
-Abhishek Kumar, Oladayo S. Ajani, Swagatam Das, Rammohan Mallipeddi  
-[[paper](https://arxiv.org/pdf/2205.11761.pdf)]  [[code](https://github.com/sansanfree/rbo)] 
 
 ### 3D tracking
 + Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects  
@@ -105,6 +104,13 @@ Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jas
 Peixuan Li, Jieyu Jin  
 [[paper](https://arxiv.org/pdf/2205.14882.pdf)]
 
++ PTTR: Relational 3D Point Cloud Object Tracking With Transformer  
+Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, Shijian Lu  
+[[paper](https://arxiv.org/pdf/2112.02857.pdf)]  [[code](https://github.com/jasonkks/pttr)] 
+
++ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds  
+Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li  
+[[paper](https://arxiv.org/pdf/2203.01730.pdf)]  [[code](https://github.com/ghostish/open3dsot)] 
 
 ### Human Object and pose tracking
 + BEHAVE: Dataset and Method for Tracking Human Object Interactions  
@@ -139,19 +145,74 @@ Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu
 
 + Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline  
 Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan  
-[[paper](https://arxiv.org/pdf/2204.04120.pdf)]
-
-### Point clouds
-+ PTTR: Relational 3D Point Cloud Object Tracking With Transformer  
-Changqing Zhou, Zhipeng Luo, Yueru Luo, Tianrui Liu, Liang Pan, Zhongang Cai, Haiyu Zhao, Shijian Lu  
-[[paper](https://arxiv.org/pdf/2112.02857.pdf)]  [[code](https://github.com/jasonkks/pttr)] 
-
-+ Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds  
-Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li  
-[[paper](https://arxiv.org/pdf/2203.01730.pdf)]  [[code](https://github.com/ghostish/open3dsot)] 
+[[paper](https://arxiv.org/pdf/2204.04120.pdf)] 
 
 
 ## CVPR 2021
++ Rotation Equivariant Siamese Networks for Tracking  
+Deepak K. Gupta, Devanshu Arya, Efstratios Gavves  
+[[paper](https://arxiv.org/pdf/2012.13078.pdf)]  [[code](https://github.com/dkgupta90/re-siamnet)]
+
++ LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search  
+Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu
+[[paper](https://arxiv.org/pdf/2104.14545.pdf)]  [[code](https://github.com/researchmm/LightTrack)]
+
++ Track, Check, Repeat: An EM Approach to Unsupervised Tracking  
+Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki  
+[[paper](https://arxiv.org/pdf/2104.03424.pdf)]  [[code](https://www.cs.cmu.edu/~aharley/em_cvpr21/)]
+
++ Learning to Filter: Siamese Relation Network for Robust Tracking  
+Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang  
+[[paper](https://arxiv.org/pdf/2104.00829.pdf)]  [[code](https://github.com/hqucv/siamrn)]
+
++ Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation  
+Bin Yan，Xinyu Zhang，Dong Wang，Huchuan Lu， Xiaoyun Yang  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Alpha-Refine_Boosting_Tracking_Performance_by_Precise_Bounding_Box_Estimation_CVPR_2021_paper.pdf)]  [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+
++ CapsuleRRT: Relationships-aware Regression Tracking via Capsules  
+Ding Ma, Xiangqian Wu  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
+
++ MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking  
+Jennifer Jang, Heinrich Jiang  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)]  [[code]()]
+
++ Learning to Fuse Asymmetric Feature Maps in Siamese Trackers  
+Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen  
+[[paper](https://arxiv.org/pdf/2012.02776.pdf)]  [[code](https://github.com/wencheng256/SiamBAN-ACM)]
+
++ IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking  
+Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang  
+[[paper](https://arxiv.org/pdf/2103.14938.pdf)]  [[code](https://github.com/VISION-SJTU/IoUattack)]
+
++ Learning to Track Instances without Video Annotations  
+Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz   
+[[paper](https://arxiv.org/pdf/2104.00287.pdf)]
+
++ Progressive Unsupervised Learning for Visual Object Tracking  
+Qiangqiang Wu 、Jia Wan 、Antoni B. Chan  
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
+
++ Graph Attention Tracking  
+Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen  
+[[paper](https://arxiv.org/pdf/2011.11204.pdf)]  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
+
++ STMTrack: Template-free Visual Tracking with Space-time Memory Networks  
+Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang  
+[[paper](https://arxiv.org/pdf/2104.00324.pdf)]  [[code](https://github.com/fzh0917/STMTrack)]
+
++ Transformer Tracking  
+Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu  
+[[paper](https://arxiv.org/pdf/2103.15436.pdf)]  [[code](https://github.com/chenxin-dlut/TransT)]
+
++ Polygonal Point Set Tracking  
+Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
+[[paper](https://arxiv.org/pdf/2105.14584.pdf)]
+
++ Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking  
+Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li  
+[[paper](https://arxiv.org/pdf/2103.11681.pdf)]  [[code](https://github.com/594422814/TransformerTrack)]
+
 ### NLP + tracking
 + Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers  
 Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff  
@@ -227,71 +288,6 @@ Linyu Zheng、Ming Tang、Yingying Chen、Guibo Zhu、Jinqiao Wang、Hanqing Lu
 + Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences  
 Norman Muller、Yu-Shiang Wong、Niloy J. Mitra、Angela Dai、 Matthias Nießner  
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Muller_Seeing_Behind_Objects_for_3D_Multi-Object_Tracking_in_RGB-D_Sequences_CVPR_2021_paper.pdf)]
-
-### SOT
-+ Rotation Equivariant Siamese Networks for Tracking  
-Deepak K. Gupta, Devanshu Arya, Efstratios Gavves  
-[[paper](https://arxiv.org/pdf/2012.13078.pdf)]  [[code](https://github.com/dkgupta90/re-siamnet)]
-
-+ LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search  
-Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu
-[[paper](https://arxiv.org/pdf/2104.14545.pdf)]  [[code](https://github.com/researchmm/LightTrack)]
-
-+ Track, Check, Repeat: An EM Approach to Unsupervised Tracking  
-Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki  
-[[paper](https://arxiv.org/pdf/2104.03424.pdf)]  [[code](https://www.cs.cmu.edu/~aharley/em_cvpr21/)]
-
-+ Learning to Filter: Siamese Relation Network for Robust Tracking  
-Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang  
-[[paper](https://arxiv.org/pdf/2104.00829.pdf)]  [[code](https://github.com/hqucv/siamrn)]
-
-+ Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation  
-Bin Yan，Xinyu Zhang，Dong Wang，Huchuan Lu， Xiaoyun Yang  
-[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Alpha-Refine_Boosting_Tracking_Performance_by_Precise_Bounding_Box_Estimation_CVPR_2021_paper.pdf)]  [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
-
-+ CapsuleRRT: Relationships-aware Regression Tracking via Capsules  
-Ding Ma, Xiangqian Wu  
-[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
-
-+ MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking  
-Jennifer Jang, Heinrich Jiang  
-[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)]  [[code]()]
-
-+ Learning to Fuse Asymmetric Feature Maps in Siamese Trackers  
-Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen  
-[[paper](https://arxiv.org/pdf/2012.02776.pdf)]  [[code](https://github.com/wencheng256/SiamBAN-ACM)]
-
-+ IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking  
-Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang  
-[[paper](https://arxiv.org/pdf/2103.14938.pdf)]  [[code](https://github.com/VISION-SJTU/IoUattack)]
-
-+ Learning to Track Instances without Video Annotations  
-Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz   
-[[paper](https://arxiv.org/pdf/2104.00287.pdf)]
-
-+ Progressive Unsupervised Learning for Visual Object Tracking  
-Qiangqiang Wu 、Jia Wan 、Antoni B. Chan  
-[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
-
-+ Graph Attention Tracking  
-Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen  
-[[paper](https://arxiv.org/pdf/2011.11204.pdf)]  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
-
-+ STMTrack: Template-free Visual Tracking with Space-time Memory Networks  
-Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang  
-[[paper](https://arxiv.org/pdf/2104.00324.pdf)]  [[code](https://github.com/fzh0917/STMTrack)]
-
-+ Transformer Tracking  
-Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu  
-[[paper](https://arxiv.org/pdf/2103.15436.pdf)]  [[code](https://github.com/chenxin-dlut/TransT)]
-
-+ Polygonal Point Set Tracking  
-Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim  
-[[paper](https://arxiv.org/pdf/2105.14584.pdf)]
-
-+ Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking  
-Ning Wang, Wengang Zhou, Jie Wang, Houqaing Li  
-[[paper](https://arxiv.org/pdf/2103.11681.pdf)]  [[code](https://github.com/594422814/TransformerTrack)]
 
 ### Pose tracking
 + TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking  
