@@ -122,3 +122,69 @@ Yijia Weng, He Wang, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Che
 + EM-POSE: 3D Human Pose Estimation From Sparse Electromagnetic Trackers  
 Manuel Kaufmann, Yi Zhao, Chengcheng Tang, Lingling Tao, Christopher Twigg, Jie Song, Robert Wang, Otmar Hilliges  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kaufmann_EM-POSE_3D_Human_Pose_Estimation_From_Sparse_Electromagnetic_Trackers_ICCV_2021_paper.pdf)]
+
+## ICCV 2019
+Tracking Without Bells and Whistles  
+Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf)]
+
++ 'Skimming-Perusal' Tracking: A Framework for Real-Time and Robust Long-Term Tracking  
+Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.pdf)]  [[code](https://github.com/iiau-tracker/SPLT)]
+
++ Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking  
+Ziyuan Huang, Changhong Fu, Yiming Li, Fuling Lin, Peng Lu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)]
+
++ Bridging the Gap Between Detection and Tracking: A Unified Approach  
+Lianghua Huang, Xin Zhao, Kaiqi Huang  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
+
++ Learning the Model Update for Siamese Trackers  
+Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf)]  [[code](https://github.com/zhanglichao/updatenet)]
+
++ Learning Discriminative Model Prediction for Tracking  
+Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]  [[code](https://github.com/visionml/pytracking)]
+
+### Visual Tracking
++ Deep Meta Learning for Real-Time Target-Aware Visual Tracking  
+Janghoon Choi, Junseok Kwon, Kyoung Mu Lee  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf)]  [[code](https://github.com/ZwwWayne/mmMOT)]
+
++ GradNet: Gradient-Guided Network for Visual Object Tracking  
+Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)]  [[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+
++ CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark  
+Alan Lukezic, Ugur Kart, Jani Kapyla, Ahmed Durmush, Joni-Kristian Kamarainen, Jiri Matas, Matej Kristan  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+
++ Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking  
+Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)]  [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
+
+### MOT
++ Robust Multi-Modality Multi-Object Tracking  
+Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy   
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Robust_Multi-Modality_Multi-Object_Tracking_ICCV_2019_paper.pdf)]
+
++ Spatial-Temporal Relation Networks for Multi-Object Tracking  
+Jiarui Xu, Yue Cao, Zheng Zhang, Han Hu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf)]
+
++ FAMNet: Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking  
+Peng Chu, Haibin Ling  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_FAMNet_Joint_Learning_of_Feature_Affinity_and_Multi-Dimensional_Assignment_for_ICCV_2019_paper.pdf)]
+
+### 3D
++ Joint Monocular 3D Vehicle Detection and Tracking  
+Hou-Ning Hu, Qi-Zhi Cai, Dequan Wang, Ji Lin, Min Sun, Philipp Krahenbuhl, Trevor Darrell, Fisher Yu  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)]
+
+
+### Multimodal
++ Self-Supervised Moving Vehicle Tracking With Stereo Sound  
+Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba  
+[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
