@@ -90,7 +90,122 @@ Kazuya Nishimura, Junya Hayashida, Chenyang Wang, Dai Fei Elmer Ker, Ryoma Bise
 ### 数据集
 + TAO: A Large-Scale Benchmark for Tracking Any Object  
 Achal Dave, Tarasha Khurana, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan  
-[[paper](https://arxiv.org/abs/2005.10356]  [[code]()]
+[[paper](https://arxiv.org/abs/2005.10356]
+
+# ECCV 2018
++ Distractor-aware Siamese Networks for Visual Object Tracking  
+Zheng Zhu, Qiang Wang, Bo Li, Wei Wu, Junjie Yan, Weiming Hu  
+[[paper](https://arxiv.org/pdf/1808.06048.pdf)]  [[code](https://github.com/foolwood/DaSiamRPN)]
+
++ Learning Dynamic Memory Networks for Object Tracking  
+Tianyu Yang, Antoni B. Chan  
+[[paper](https://arxiv.org/pdf/1803.07268.pdf)]  [[code](https://github.com/skyoung/MemTrack)]
+
++ Structured Siamese Network for Real-Time Visual Tracking  
+Yunhua Zhang, Lijun Wang, Jinqing Qi, Dong Wang, Mengyang Feng, Huchuan Lu  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yunhua_Zhang_Structured_Siamese_Network_ECCV_2018_paper.pdf)]
+
++ Tracking Emerges by Colorizing Videos  
+Carl Vondrick, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy  
+[[paper](https://arxiv.org/pdf/1806.09594v2.pdf)]  [[code](https://github.com/hyperparameters/tracking_via_colorization)]
+
++ Triplet Loss in Siamese Network for Object Tracking  
+Xingping Dong, Jianbing Shen  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xingping_Dong_Triplet_Loss_with_ECCV_2018_paper.pdf)]  [[code](https://github.com/shenjianbing/TripletTracking)]
+
++ Real-time 'Actor-Critic' Tracking  
+Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, Huchuan Lu  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf)]  [[code]()]
+
++ Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking  
+Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan, Wangmeng Zuo  
+[[paper](https://arxiv.org/pdf/1807.11071.pdf)]  [[code](https://github.com/tourmaline612/RTINet)]
+
++ Visual Tracking via Spatially Aligned Correlation Filters Network  
+Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/mengdan_zhang_Visual_Tracking_via_ECCV_2018_paper.pdf)]
+
++ A Framework for Evaluating 6-DOF Object Trackers  
+Mathieu Garon, Denis Laurendeau, Jean-Francois Lalonde  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathieu_Garon_A_Framework_for_ECCV_2018_paper.pdf)]
+
++ Meta-Tracker: Fast and Robust Online Adaptation for Visual Object Trackers  
+Eunbyung Park, Alexander C. Berg  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Eunbyung_Park_Meta-Tracker_Fast_and_ECCV_2018_paper.pdf)]  [[code](https://github.com/silverbottlep/meta trackers)]
+
++ Deep Reinforcement Learning with Iterative Shift for Visual Tracking  
+Liangliang Ren, Xin Yuan, Jiwen Lu, Ming Yang, Jie Zhou  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Deep_Reinforcement_Learning_ECCV_2018_paper.pdf)]
+
++ Combining 3D Model Contour Energy and Keypoints for Object Tracking  
+Bogdan Bugaev, Anton Kryshchenko, Roman Belov  
+[[paper](https://arxiv.org/pdf/2002.01379.pdf)]
+ 
++ Efficient 6-DoF Tracking of Handheld Objects from an Egocentric Viewpoint  
+Rohit Pandey, Pavel Pidlypenskyi, Shuoran Yang, Christine Kaeser-Chen  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Rohit_Pandey_Efficient_6-DoF_Tracking_ECCV_2018_paper.pdf)]
+
++ Joint 3D tracking of a deformable object in interaction with a hand  
+Aggeliki Tsoli, Antonis A. Argyros  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aggeliki_Tsoli_Joint_3D_tracking_ECCV_2018_paper.pdf)] 
+
++ Unveiling the Power of Deep Tracking
+Goutam Bhat, Joakim Johnander, Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg  
+[[paper](https://arxiv.org/pdf/1804.06833.pdf)]
+
++ Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World  
+Matteo Fabbri, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, Rita Cucchiara  
+[[paper](https://arxiv.org/pdf/1803.08319.pdf)]  [[code](https://github.com/fabbrimatteo/JTA-Dataset)]
+
++ Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving
+Peiliang Li, Tong Qin, andShaojie Shen  
+[[paper](https://arxiv.org/pdf/1807.02062.pdf)]
+
++ DeepTAM: Deep Tracking and Mapping  
+Huizhong Zhou, Benjamin Ummenhofer, Thomas Brox  
+[[paper](https://arxiv.org/pdf/1808.01900.pdf)]  [[code](https://github.com/lmb-freiburg/deeptam)]
+
+### MOT
++ Online Multi-Object Tracking with Dual Matching Attention Networks  
+Ji Zhu, Hua Yang, Nian Liu, Minyoung Kim, Wenjun Zhang, Ming-Hsuan Yang  
+[[paper](https://arxiv.org/pdf/1902.00749.pdf)]  [[code](https://github.com/jizhu1023/DMAN_MOT)]
+
++ Collaborative Deep Reinforcement Learning for Multi-Object Tracking  
+Liangliang Ren, Jiwen Lu, Zifeng Wang, Qi Tian, Jie Zhou  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)]
+
++ Multi-object Tracking with Neural Gating Using Bilinear LSTM  
+Chanho Kim, Fuxin Li, James M. Rehg  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)]
+
+### Human Tracking
++ Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking  
+Minghao Guo, Jiwen Lu, Jie Zhou  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)]
+
++ Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM  
+Yipu Zhao, Patricio A. Vela  
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf)]
+
+### RGB-T tracking
++ Cross-Modal Ranking with Soft Consistency and Noisy Labels for Robust RGB-T Tracking
+Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, Liang Wang
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chenglong_Li_Cross-Modal_Ranking_with_ECCV_2018_paper.pdf)]
 
 
+### dataset & baseline
++ TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild  
+Matthias Muller, Adel Bibi, Silvio Giancola, Salman Alsubaihi, Bernard Ghanem  
+[[paper](https://arxiv.org/pdf/1803.10794.pdf)]  [[code](https://github.com/SilvioGiancola/TrackingNet-devkit)]
 
++ Long-term Tracking in the Wild: a Benchmark  
+Jack Valmadre, Luca Bertinetto, Joao F. Henriques, Ran Tao, Andrea Vedaldi, Arnold W.M. Smeulders, Philip H.S. Torr, Efstratios Gavves  
+[[paper](https://arxiv.org/pdf/1803.09502.pdf)]
+
++ The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking  
+Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian  
+[[paper](https://arxiv.org/pdf/1804.00518.pdf)]  [[code]()]
+
++ Simple Baselines for Human Pose Estimation and Tracking  
+Bin Xiao, Haiping Wu, Yichen Wei  
+[[https://arxiv.org/pdf/1804.06208.pdf]]  [[code](https://github.com/leoxiaobin/pose.pytorch)]
