@@ -40,6 +40,10 @@ Bin Yu, Ming Tang, Linyu Zheng, Guibo Zhu, Jinqiao Wang, Hao Feng, Xuetao Feng, 
 Yu-Jhe Li, Xinshuo Weng, Yan Xu, Kris M. Kitani  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Visio-Temporal_Attention_for_Multi-Camera_Multi-Target_Association_ICCV_2021_paper.pdf)]
 
++ TF-Blender: Temporal Feature Blender for Video Object Detection  
+Yiming Cui, Liqi Yan, Zhiwen Cao, Dongfang Liu  
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_TF-Blender_Temporal_Feature_Blender_for_Video_Object_Detection_ICCV_2021_paper.pdf)]  [[code](https://github.com/goodproj13/TF-Blender)]
+
 ### Visual Object Tracking
 + Learning to Adversarially Blur Visual Object Tracking  
 Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao  
@@ -109,12 +113,7 @@ Andrea Hornakova, Timo Kaiser, Paul Swoboda, Michal Rolinek, Bodo Rosenhahn, Rob
 Matteo Fabbri, Guillem Brasó, Gianluca Maugeri, Orcun Cetintas, Riccardo Gasparini, Aljoša Ošep, Simone Calderara, Laura Leal-Taixé, Rita Cucchiara  
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
 
-### Video Object Detection
-+ TF-Blender: Temporal Feature Blender for Video Object Detection  
-Yiming Cui, Liqi Yan, Zhiwen Cao, Dongfang Liu  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_TF-Blender_Temporal_Feature_Blender_for_Video_Object_Detection_ICCV_2021_paper.pdf)]  [[code](https://github.com/goodproj13/TF-Blender)]
-
-### Pose Tracking
+### Human and Pose Tracking
 + CAPTRA: CAtegory-Level Pose Tracking for Rigid and Articulated Objects From Point Clouds  
 Yijia Weng, He Wang, Qiang Zhou, Yuzhe Qin, Yueqi Duan, Qingnan Fan, Baoquan Chen, Hao Su, Leonidas J. Guibas  
 [[paper](https://arxiv.org/pdf/2104.03437.pdf)]  [[code](https://github.com/HalfSummer11/CAPTRA)]
