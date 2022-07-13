@@ -289,7 +289,7 @@ Linyu Zheng、Ming Tang、Yingying Chen、Guibo Zhu、Jinqiao Wang、Hanqing Lu
 Norman Muller、Yu-Shiang Wong、Niloy J. Mitra、Angela Dai、 Matthias Nießner  
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Muller_Seeing_Behind_Objects_for_3D_Multi-Object_Tracking_in_RGB-D_Sequences_CVPR_2021_paper.pdf)]
 
-### Pose tracking
+### Human and Pose tracking
 + TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking  
 N Dinesh Reddy、Laurent Guigues、Leonid Pishchulin、Jayan Eledath、Srinivasa G. Narasimhan  
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf)]
@@ -298,7 +298,6 @@ N Dinesh Reddy、Laurent Guigues、Leonid Pishchulin、Jayan Eledath、Srinivasa
 Yiding Yang, Zhou Ren, Haoxiang Li, Chunluan Zhou, Xinchao Wang, Gang Hua  
 [[paper](https://arxiv.org/pdf/2106.03772.pdf)]
 
-### Pedestrian Tracking
 + Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling  
 Daniel Stadler、Jurgen Beyerer  
 [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Stadler_Improving_Multiple_Pedestrian_Tracking_by_Track_Management_and_Occlusion_Handling_CVPR_2021_paper.pdf)]
@@ -315,6 +314,53 @@ Tianwei Yin, Xingyi Zhou, Philipp Krähenbühl
 
 
 ## CVPR 2020
++ SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking
+Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen  
+[[paper](https://arxiv.org/pdf/1911.07241.pdf)]  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
+
++ Tracking by Instance Detection: A Meta-Learning Approach  
+Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng  
+[[paper](https://arxiv.org/pdf/2004.00830.pdf)]
+
++ Siamese Box Adaptive Network for Visual Tracking  
+Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji  
+[[paper](https://arxiv.org/pdf/2003.06761.pdf)]  [[code](https://github.com/hqucv/siamban)]
+
++ Deformable Siamese Attention Networks for Visual Object Tracking  
+Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott  
+[[paper](https://arxiv.org/pdf/2004.06711.pdf)]  [[code](https://github.com/msight-tech/research-siamattn)]
+
++ Correlation-Guided Attention for Corner Detection Based Visual Tracking  
+Fei Du, Peng Liu, Wei Zhao, Xianglong Tang  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf)]  [[code]()]
+
++ Siam R-CNN: Visual Tracking by Re-Detection  
+Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe  
+[[paper](https://arxiv.org/pdf/1911.12836.pdf)]  [[code](VisualComputingInstitute/SiamR-CNN)]
+
++ Probabilistic Regression for Visual Tracking  
+Martin Danelljan, Luc Van Gool, Radu Timofte  
+[[paper](https://arxiv.org/pdf/2003.12565.pdf)]  [[code](https://github.com/visionml/pytracking)]
+
++ Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking  
+Jin Gao, Weiming Hu, Yan Lu  
+[[paper](https://arxiv.org/pdf/2112.14016.pdf)]  [[code](https://github.com/Amgao/RLS-RTMDNet)]
+
++ ROAM: Recurrently Optimizing Tracking Model  
+Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan  
+[[paper](https://arxiv.org/pdf/1907.12006.pdf)]  [[code](https://github.com/skyoung/ROAM)]
+
++ One-Shot Adversarial Attacks on Visual Tracking With Dual Attention  
+Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_One-Shot_Adversarial_Attacks_on_Visual_Tracking_With_Dual_Attention_CVPR_2020_paper.pdf)]
+
++ AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization  
+Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu  
+[[paper](https://arxiv.org/pdf/2003.12949.pdf)]  [[code](https://github.com/vision4robotics/AutoTrack)]
+
++ High-Performance Long-Term Tracking With Meta-Updater  
+Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
+[[paper](https://arxiv.org/pdf/2004.00305.pdf)]  [[code](https://github.com/Daikenan/LTMU)]
 
 ### MOT
 + GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning  
@@ -381,56 +427,6 @@ Bo Pang, Yizhuo Li, Yifan Zhang, Muchen Li, Cewu Lu
 Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang.  
 [[paper](https://arxiv.org/pdf/2104.12041.pdf)]  [[code](https://github.com/hqucv/dmtrack)] 
 
-### SOT
-+ SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking
-Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen  
-[[paper](https://arxiv.org/pdf/1911.07241.pdf)]  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
-
-+ Tracking by Instance Detection: A Meta-Learning Approach  
-Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng  
-[[paper](https://arxiv.org/pdf/2004.00830.pdf)]
-
-+ Siamese Box Adaptive Network for Visual Tracking  
-Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji  
-[[paper](https://arxiv.org/pdf/2003.06761.pdf)]  [[code](https://github.com/hqucv/siamban)]
-
-+ Deformable Siamese Attention Networks for Visual Object Tracking  
-Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott  
-[[paper](https://arxiv.org/pdf/2004.06711.pdf)]  [[code](https://github.com/msight-tech/research-siamattn)]
-
-+ Correlation-Guided Attention for Corner Detection Based Visual Tracking  
-Fei Du, Peng Liu, Wei Zhao, Xianglong Tang  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf)]  [[code]()]
-
-+ Siam R-CNN: Visual Tracking by Re-Detection  
-Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe  
-[[paper](https://arxiv.org/pdf/1911.12836.pdf)]  [[code](VisualComputingInstitute/SiamR-CNN)]
-
-+ Probabilistic Regression for Visual Tracking  
-Martin Danelljan, Luc Van Gool, Radu Timofte  
-[[paper](https://arxiv.org/pdf/2003.12565.pdf)]  [[code](https://github.com/visionml/pytracking)]
-
-+ Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking  
-Jin Gao, Weiming Hu, Yan Lu  
-[[paper](https://arxiv.org/pdf/2112.14016.pdf)]  [[code](https://github.com/Amgao/RLS-RTMDNet)]
-
-+ ROAM: Recurrently Optimizing Tracking Model  
-Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan  
-[[paper](https://arxiv.org/pdf/1907.12006.pdf)]  [[code](https://github.com/skyoung/ROAM)]
-
-+ One-Shot Adversarial Attacks on Visual Tracking With Dual Attention  
-Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_One-Shot_Adversarial_Attacks_on_Visual_Tracking_With_Dual_Attention_CVPR_2020_paper.pdf)]
-
-+ AutoTrack: Towards High-Performance Visual Tracking for UAV With Automatic Spatio-Temporal Regularization  
-Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu  
-[[paper](https://arxiv.org/pdf/2003.12949.pdf)]  [[code](https://github.com/vision4robotics/AutoTrack)]
-
-### long-term
-+ High-Performance Long-Term Tracking With Meta-Updater  
-Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang  
-[[paper](https://arxiv.org/pdf/2004.00305.pdf)]  [[code](https://github.com/Daikenan/LTMU)]
-
 ### 3D tracking
 + P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds  
 Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao  
@@ -464,7 +460,7 @@ Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appen
 Yang Li, Aljaz Bozic, Tianwei Zhang, Yanli Ji, Tatsuya Harada, Matthias Niessner  
 [[paper](https://arxiv.org/pdf/2003.12230.pdf)]
 
-### PoseTrack
+### Pose Tracking
 + Combining detection and tracking for human pose estimation in videos  
 Manchen Wang, Joseph Tighe, Davide Modolo  
 [[paper](https://arxiv.org/pdf/2003.13743.pdf)]
@@ -472,37 +468,6 @@ Manchen Wang, Joseph Tighe, Davide Modolo
 
 
 ## CVPR 2019
-### MOT
-+ Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics  
-Yaron Meirovitch, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, Nir Shavit  
-[[paper](https://arxiv.org/pdf/1812.01157.pdf)]
- 
- + Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers  
- Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber  
- [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Tracking_by_Animation_Unsupervised_Learning_of_Multi-Object_Attentive_Trackers_CVPR_2019_paper.pdf)]
- 
- + Efficient Online Multi-Person 2D Pose Tracking With Recurrent Spatio-Temporal Affinity Fields  
- Yaadhav Raaj, Haroon Idrees, Gines Hidalgo, Yaser Sheikh  
- [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Raaj_Efficient_Online_Multi-Person_2D_Pose_Tracking_With_Recurrent_Spatio-Temporal_Affinity_CVPR_2019_paper.html)]
- 
- + Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking  
- Andrii Maksai, Pascal Fua  
- [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Maksai_Eliminating_Exposure_Bias_and_Metric_Mismatch_in_Multiple_Object_Tracking_CVPR_2019_paper.html)]
- 
- + Multi-Person Articulated Tracking With Spatial and Temporal Embeddings  
-Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Multi-Person_Articulated_Tracking_With_Spatial_and_Temporal_Embeddings_CVPR_2019_paper.pdf)]
-
-+ MOTS: Multi-Object Tracking and Segmentation.  
-Paul Voigtlaender, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, Bastian Leibe  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Voigtlaender_MOTS_Multi-Object_Tracking_and_Segmentation_CVPR_2019_paper.pdf)] [[code]()]
-
-
-+ CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification  
-Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang  
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] [[code]()]
- 
-### SOT
 + Fast Online Object Tracking and Segmentation: A Unifying Approach  
 Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr  
 [[paper](https://arxiv.org/pdf/1812.05050.pdf)]  [[code](https://github.com/foolwood/SiamMask)]
@@ -571,6 +536,36 @@ Yuxuan Sun, Chong Sun, Dong Wang, You He, Huchuan Lu
 Masashi Yokozuka, Shuji Oishi, Simon Thompson, Atsuhiko Banno  
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yokozuka_VITAMIN-E_VIsual_Tracking_and_MappINg_With_Extremely_Dense_Feature_Points_CVPR_2019_paper.pdf)]
 
+### MOT
++ Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics  
+Yaron Meirovitch, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, Nir Shavit  
+[[paper](https://arxiv.org/pdf/1812.01157.pdf)]
+ 
+ + Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers  
+ Zhen He, Jian Li, Daxue Liu, Hangen He, David Barber  
+ [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Tracking_by_Animation_Unsupervised_Learning_of_Multi-Object_Attentive_Trackers_CVPR_2019_paper.pdf)]
+ 
+ + Efficient Online Multi-Person 2D Pose Tracking With Recurrent Spatio-Temporal Affinity Fields  
+ Yaadhav Raaj, Haroon Idrees, Gines Hidalgo, Yaser Sheikh  
+ [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Raaj_Efficient_Online_Multi-Person_2D_Pose_Tracking_With_Recurrent_Spatio-Temporal_Affinity_CVPR_2019_paper.html)]
+ 
+ + Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking  
+ Andrii Maksai, Pascal Fua  
+ [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Maksai_Eliminating_Exposure_Bias_and_Metric_Mismatch_in_Multiple_Object_Tracking_CVPR_2019_paper.html)]
+ 
+ + Multi-Person Articulated Tracking With Spatial and Temporal Embeddings  
+Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Multi-Person_Articulated_Tracking_With_Spatial_and_Temporal_Embeddings_CVPR_2019_paper.pdf)]
+
++ MOTS: Multi-Object Tracking and Segmentation.  
+Paul Voigtlaender, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, Bastian Leibe  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Voigtlaender_MOTS_Multi-Object_Tracking_and_Segmentation_CVPR_2019_paper.pdf)] [[code]()]
+
+
++ CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification  
+Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David Anastasiu, Jenq-Neng Hwang  
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] [[code]()]
+
 ### 3D
 + Leveraging Shape Completion for 3D Siamese Tracking  
 Silvio Giancola, Jesus Zarzar, Bernard Ghanem  
@@ -582,33 +577,6 @@ Ming-Fang Chang, John Lambert, Patsorn Sangkloy, Jagjeet Singh, Slawomir Bak, An
 
 
 ## CVPR 2018
-
-### MOT
-+ A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos  
-Chung-Ching Lin, Ying Hung  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_A_Prior-Less_Method_CVPR_2018_paper.pdf)]  [[code]()]
-
-+ Towards Dense Object Tracking in a 2D Honeybee Hive.  
-Katarzyna Bozek, Laetitia Hebert, Alexander S. Mikheyev, Greg J. Stephens  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking.  
-Akash Bapat, True Price, Jan-Michael Frahm  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes.  
-Weihong Ren, Di Kang, Yandong Tang, Antoni B. Chan  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Fusing_Crowd_Density_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Features for Multi-Target Multi-Camera Tracking and Re-Identification.  
-Ergys Ristani, Carlo Tomasi  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)] [[code]()]
-
-+ Tracking Multiple Objects Outside the Line of Sight Using Speckle Imaging.  
-Brandon M. Smith, Matthew O'Toole, Mohit Gupta  
-[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Smith_Tracking_Multiple_Objects_CVPR_2018_paper.pdf)] [[code]()]
-
-### Object tracking
 + End-to-end Flow Correlation Tracking with Spatial-temporal Attention  
 Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan  
 [[paper](https://arxiv.org/pdf/1711.01124v4.pdf)]
@@ -649,6 +617,32 @@ Chong Sun, Dong Wang, Huchuan Lu, Ming-Hsuan Yang
 Bo Li, Junjie Yan, Wei Wu, Zheng Zhu, Xiaolin Hu  
 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_High_Performance_Visual_CVPR_2018_paper.pdf)]
 
+### MOT
++ A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos  
+Chung-Ching Lin, Ying Hung  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_A_Prior-Less_Method_CVPR_2018_paper.pdf)]  [[code]()]
+
++ Towards Dense Object Tracking in a 2D Honeybee Hive.  
+Katarzyna Bozek, Laetitia Hebert, Alexander S. Mikheyev, Greg J. Stephens  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)] [[code]()]
+
++ Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking.  
+Akash Bapat, True Price, Jan-Michael Frahm  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)] [[code]()]
+
++ Fusing Crowd Density Maps and Visual Object Trackers for People Tracking in Crowd Scenes.  
+Weihong Ren, Di Kang, Yandong Tang, Antoni B. Chan  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Fusing_Crowd_Density_CVPR_2018_paper.pdf)] [[code]()]
+
++ Features for Multi-Target Multi-Camera Tracking and Re-Identification.  
+Ergys Ristani, Carlo Tomasi  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)] [[code]()]
+
++ Tracking Multiple Objects Outside the Line of Sight Using Speckle Imaging.  
+Brandon M. Smith, Matthew O'Toole, Mohit Gupta  
+[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Smith_Tracking_Multiple_Objects_CVPR_2018_paper.pdf)] [[code]()]
+
+### Adversarial Learning
 + VITAL: VIsual Tracking via Adversarial Learning  
 Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson W.H. Lau, Ming-Hsuan Yang  
 [[code](https://arxiv.org/pdf/1804.04273.pdf)]
@@ -735,56 +729,6 @@ Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, Luca Berti
 [[paper](https://proceedings.neurips.cc/paper/2021/file/06997f04a7db92466a2baa6ebc8b872d-Paper.pdf)]  [[code]()] 
 
 
-## ICCV 2021
-
-+ Learning to Track with Object Permanence  (ICCV 2021)  
-Pavel Tokmakov, Jie Li, Wolfram Burgard, Adrien Gaidon    
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Tokmakov_Learning_To_Track_With_Object_Permanence_ICCV_2021_paper.pdf)]  [[code](https://github.com/TRI-ML/permatrack)]
-
-
-+ Assignment-Space-Based Multi-Object Tracking and Segmentation. (ICCV 2021)  
-Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Choudhuri_Assignment-Space-Based_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf)]  
-
-+ A General Recurrent Tracking Framework Without Real Data. (ICCV 2021)  
-Shuai Wang, Hao Sheng, Yang Zhang, Yubin Wu, Zhang Xiong  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_A_General_Recurrent_Tracking_Framework_Without_Real_Data_ICCV_2021_paper.pdf)]
-
-+ Exploring Simple 3D Multi-Object Tracking for Autonomous Driving. (ICCV 2021)  
-Chenxu Luo, Xiaodong Yang, Alan Yuille  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_Exploring_Simple_3D_Multi-Object_Tracking_for_Autonomous_Driving_ICCV_2021_paper.pdf)]  [[code](https://github.com/qcraftai/simtrack)]
-
-+ Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking. (ICCV 2021)  
-Gaoang Wang, Renshu Gu, Zuozhu Liu, Weijie Hu, Mingli Song, Jenq-Neng Hwang  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Track_Without_Appearance_Learn_Box_and_Tracklet_Embedding_With_Local_ICCV_2021_paper.pdf)]  [[code](https://github.com/GaoangW/LGMTracker)]
-
-+ Continuous Copy-Paste for One-Stage Multi-Object Tracking and Segmentation. (ICCV 2021)  
-Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Continuous_Copy-Paste_for_One-Stage_Multi-Object_Tracking_and_Segmentation_ICCV_2021_paper.pdf)] [[code](https://github.com/detectRecog/CCP)]
-
-+ MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?. (ICCV 2021)  
-Zhenbo Xu, Ajin Meng, Zhenbo Shi, Wei Yang, Zhi Chen, Liusheng Huang  
-[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf)]
-
-
-## ECCV 2020
-
-+ Towards Real-Time Multi-Object Tracking. (ECCV 2020)  
-Zhongdao Wang, Liang Zheng, Yixuan Liu, Yali Li, Shengjin Wang.  
-[[paper](https://arxiv.org/pdf/1909.12605.pdf)]  [[code](https://github.com/Zhongdao/Towards-Realtime-MOT)]
-
-+ CenterNet Tracking objects as points. (ECCV 2020)  
-Xingyi Zhou, Vladlen Koltun, Philipp Krähenbühl.  
-[[paper](https://arxiv.org/pdf/2004.01177.pdf)]  [[code](https://github.com/xingyizhou/CenterTrack)]   
-
-+ Chained-tracker chaining paired attentive regression results for end-to-end joint multiple-object detection and tracking.  (ECCV 2020)  
-Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu.  
-[[paper](https://arxiv.org/pdf/2007.14557.pdf)]  [[code](github.com/pjl1995/CTracker)]    
-
-
-+ Simultaneous detection and tracking with motion modelling for multiple object tracking. (ECCV 2020)  
-ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian, Mubarak Shah.  
-[[paper](https://arxiv.org/pdf/2008.08826.pdf)]  
 
 ## AAAI 2020
 
@@ -810,33 +754,6 @@ Peize Sun, Jinkun Cao, Yi Jiang, Rufeng Zhang, Enze Xie, Zehuan Yuan, Changhu Wa
 + MAT: Motion-Aware Multi-Object Tracking. (arXiv 2020-9)   
 Shoudong Han, Piao Huang, Hongwei Wang, En Yu, Donghaisheng Liu, Xiaofeng Pan, Jun Zhao.  
 [[paper](https://arxiv.org/ftp/arxiv/papers/2009/2009.04794.pdf)]  
-
-
-## ICCV 2019
-
-+ Tracking Without Bells and Whistles  
-Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bergmann_Tracking_Without_Bells_and_Whistles_ICCV_2019_paper.pdf)] [[code]()]
-
-+ Robust Multi-Modality Multi-Object Tracking  
-Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Robust_Multi-Modality_Multi-Object_Tracking_ICCV_2019_paper.pdf)] [[code]()]
-
-+ Spatial-Temporal Relation Networks for Multi-Object Tracking  
-Jiarui Xu, Yue Cao, Zheng Zhang, Han Hu  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Spatial-Temporal_Relation_Networks_for_Multi-Object_Tracking_ICCV_2019_paper.pdf)] [[code]()]
-
-+ Bridging the Gap Between Detection and Tracking: A Unified Approach  
-Lianghua Huang, Xin Zhao, Kaiqi Huang  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)] [[code]()]
-
-+ Physical Adversarial Textures That Fool Visual Object Tracking  
-Rey Reza Wiyatno, Anqi Xu  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] [[code]()]
-
-+ FAMNet: Joint Learning of Feature, Affinity and Multi-Dimensional Assignment for Online Multiple Object Tracking  
-Peng Chu, Haibin Ling  
-[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_FAMNet_Joint_Learning_of_Feature_Affinity_and_Multi-Dimensional_Assignment_for_ICCV_2019_paper.pdf)] [[code]()]
 
 
 ## ICCV 2017
