@@ -6,7 +6,7 @@
 ## ECCV 2020 
 
 
-## 多目标跟踪 MOT
+## MOT
 + Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking  
 Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu  
 [[paper](https://arxiv.org/abs/2007.14557)]  [[code](https://github.com/pjl1995/CTracker)]
@@ -53,22 +53,22 @@ Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte
 Adam W. Harley, Shrinidhi K. Lakshmikanth, Paul Schydlo, Katerina Fragkiadaki  
 [[paper](https://arxiv.org/abs/2008.01295)]  [[code](https://github.com/aharley/neural_3d_tracking)]
 
-### RGBT 跟踪
+### RGBT 
 + Challenge-Aware RGBT Tracking  
 Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang  
 [[paper](https://arxiv.org/abs/2007.13143)] 
 
-### Anchor-free 跟踪
+### Anchor-free
 + Ocean: Object-aware Anchor-free Tracking  
 Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu  
 [[paper](https://arxiv.org/abs/2006.10721)]  [[code]( https://github.com/researchmm/TracKit)]
 
-### 远程眼动跟踪
+### Eye Tracking
 + Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System  
 Kang Il Lee, Jung Ho Jeon, Byung Cheol Song  
 [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)]  [[code]()]
 
-### 对抗学习+目标跟踪
+###  Adversarial Learning
 
 + SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking   
 Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu  
@@ -81,11 +81,6 @@ Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao
 + Robust Tracking against Adversarial Attacks  
 Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang  
 [[paper](https://arxiv.org/abs/2007.09919)]  [[code](https://github.com/joshuajss/RTAA)]
-
-### 细胞跟踪
-+ Weakly-Supervised Cell Tracking via Backward-and-Forward Propagation  
-Kazuya Nishimura, Junya Hayashida, Chenyang Wang, Dai Fei Elmer Ker, Ryoma Bise
-[[paper](https://arxiv.org/abs/2007.15258)]  [[code](https://github.com/naivete5656/WSCTBFP)]
 
 ### 数据集
 + TAO: A Large-Scale Benchmark for Tracking Any Object  
