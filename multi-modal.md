@@ -1,6 +1,6 @@
-Multimodal Tracking papers
+# Multimodal Tracking papers
 ## RGBT Tracking
-+Challenge-Aware RGBT Tracking ECCV 2020  
++ Challenge-Aware RGBT Tracking ECCV 2020  
 Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang  
 [[paper](https://arxiv.org/abs/2007.13143)]
 
@@ -26,15 +26,15 @@ Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Ya
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf)]
 
 ## radar
-Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar  CVPR 2020  
++ Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar  CVPR 2020  
 Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jurgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide  
 [[paper](https://arxiv.org/pdf/1912.06613.pdf)]  [[code](https://github.com/princeton-computational-imaging/doppler_nlos)]
 
 ## NLP + tracking
-Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers CVPR 2021  
++ Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers CVPR 2021  
 Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff  
 [[paper](https://arxiv.org/pdf/1912.02048.pdf)]  [[code](https://github.com/fredfung007/snlt)]
 
-Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark  CVPR2021  
++ Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark  CVPR2021  
 Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu  
 [[paper](https://arxiv.org/pdf/2103.16746.pdf)]  [[code](https://github.com/DomainGreen/Tracking-papers/blob/main)]
