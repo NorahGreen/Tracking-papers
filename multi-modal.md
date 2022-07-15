@@ -17,7 +17,7 @@ Wenwei Zhang, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy
 Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba  
 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
 
-+ There Is More Than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking With Sound by Distilling Multimodal Knowledge
++ There Is More Than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking With Sound by Distilling Multimodal Knowledge CVPR 2021  
 Francisco Rivera Valverde, Juana Valeria Hurtado, Abhinav Valada  
 [[paper](https://arxiv.org/pdf/2103.01353.pdf)]
 
