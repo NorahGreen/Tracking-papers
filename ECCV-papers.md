@@ -4,31 +4,6 @@
 
 
 ## ECCV 2020 
-
-
-## MOT
-+ Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking  
-Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu  
-[[paper](https://arxiv.org/abs/2007.14557)]  [[code](https://github.com/pjl1995/CTracker)]
-
-+ Segment as Points for Efficient Online Multi-Object Tracking and Segmentation  
-Zhenbo Xu, Wei Zhang, Xiao Tan, Wei Yang, Huan Huang, Shilei Wen, Errui Ding, Liusheng Huang  
-[[paper](https://arxiv.org/abs/2007.01550)]  [[code](https://github.com/detectRecog/PointTrack)]
-
-+ Tracking Objects as Points  
-Xingyi Zhou, Vladlen Koltun, Philipp Krähenbühl  
-[[paper](https://arxiv.org/abs/2004.01177)]  [[code](https://github.com/xingyizhou/CenterTrack)]
-
-+ Towards Real-Time Multi-Object Tracking  
-Zhongdao Wang, Liang Zheng, Yixuan Liu, Yali Li, Shengjin Wang  
-[[paper](https://arxiv.org/abs/1909.12605)]  [[code](https://github.com/Zhongdao/Towards-Realtime-MOT)]
-
-+ Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking  
-ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian , Mubarak Shah  
-[[paper]((https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf))]  [[code](https://github.com/shijieS/OmniMOTDataset)]
-
-## 单目标跟踪
-
 + PG-Net: Pixel to Global Matching Network for Visual Tracking  
 Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, Jun Yin  
 [[paper]((https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf))]
@@ -53,7 +28,29 @@ Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte
 Adam W. Harley, Shrinidhi K. Lakshmikanth, Paul Schydlo, Katerina Fragkiadaki  
 [[paper](https://arxiv.org/abs/2008.01295)]  [[code](https://github.com/aharley/neural_3d_tracking)]
 
-### RGBT 
+## MOT
++ Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking  
+Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu  
+[[paper](https://arxiv.org/abs/2007.14557)]  [[code](https://github.com/pjl1995/CTracker)]
+
++ Segment as Points for Efficient Online Multi-Object Tracking and Segmentation  
+Zhenbo Xu, Wei Zhang, Xiao Tan, Wei Yang, Huan Huang, Shilei Wen, Errui Ding, Liusheng Huang  
+[[paper](https://arxiv.org/abs/2007.01550)]  [[code](https://github.com/detectRecog/PointTrack)]
+
++ Tracking Objects as Points  
+Xingyi Zhou, Vladlen Koltun, Philipp Krähenbühl  
+[[paper](https://arxiv.org/abs/2004.01177)]  [[code](https://github.com/xingyizhou/CenterTrack)]
+
++ Towards Real-Time Multi-Object Tracking  
+Zhongdao Wang, Liang Zheng, Yixuan Liu, Yali Li, Shengjin Wang  
+[[paper](https://arxiv.org/abs/1909.12605)]  [[code](https://github.com/Zhongdao/Towards-Realtime-MOT)]
+
++ Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking  
+ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian , Mubarak Shah  
+[[paper]((https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf))]  [[code](https://github.com/shijieS/OmniMOTDataset)]
+
+
+### RGBT Tracking
 + Challenge-Aware RGBT Tracking  
 Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang  
 [[paper](https://arxiv.org/abs/2007.13143)] 
@@ -82,7 +79,7 @@ Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao
 Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang  
 [[paper](https://arxiv.org/abs/2007.09919)]  [[code](https://github.com/joshuajss/RTAA)]
 
-### 数据集
+### Dataset
 + TAO: A Large-Scale Benchmark for Tracking Any Object  
 Achal Dave, Tarasha Khurana, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan  
 [[paper](https://arxiv.org/abs/2005.10356]
