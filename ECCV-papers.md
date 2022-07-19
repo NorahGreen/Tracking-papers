@@ -7,7 +7,7 @@ Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, 
 
 + Towards Grand Unification of Object Tracking  
 Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu  
-[[paper]([https://arxiv.org/pdf/2110.06864.pdf](https://arxiv.org/abs/2207.07078))]  [[code](https://github.com/masterbin-iiau/unicorn)]
+[[paper](https://arxiv.org/abs/2207.07078)]  [[code](https://github.com/masterbin-iiau/unicorn)]
 
 + Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework 
 Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan  
@@ -21,7 +21,7 @@ Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, Jun Yin
 
 + CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers  
 Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli  
-[[paper]((https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf))]  [[code](https://github.com/xingpingdong/CLNet-tracking)]
+[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)]  [[code](https://github.com/xingpingdong/CLNet-tracking)]
 
 + Learning Feature Embeddings for Discriminant Model based Tracking  
 Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu  
@@ -58,7 +58,7 @@ Zhongdao Wang, Liang Zheng, Yixuan Liu, Yali Li, Shengjin Wang
 
 + Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking  
 ShiJie Sun, Naveed Akhtar, XiangYu Song, HuanSheng Song, Ajmal Mian , Mubarak Shah  
-[[paper]((https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf))]  [[code](https://github.com/shijieS/OmniMOTDataset)]
+[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690613.pdf)]  [[code](https://github.com/shijieS/OmniMOTDataset)]
 
 
 ### RGBT Tracking
@@ -74,13 +74,13 @@ Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu
 ### Eye Tracking
 + Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System  
 Kang Il Lee, Jung Ho Jeon, Byung Cheol Song  
-[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)]  [[code]()]
+[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)]
 
 ###  Adversarial Learning
 
 + SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking   
 Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu  
-[[paper]((https://arxiv.org/abs/1910.08681))] 
+[[paper](https://arxiv.org/abs/1910.08681)] 
 
 + Efficient Adversarial Attacks for Visual Object Tracking  
 Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao  
@@ -118,7 +118,7 @@ Xingping Dong, Jianbing Shen
 
 + Real-time 'Actor-Critic' Tracking  
 Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, Huchuan Lu  
-[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf)]  [[code]()]
+[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.pdf)]
 
 + Joint Representation and Truncated Inference Learning for Correlation Filter based Tracking  
 Yingjie Yao, Xiaohe Wu, Lei Zhang, Shiguang Shan, Wangmeng Zuo  
