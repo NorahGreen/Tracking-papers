@@ -13,6 +13,10 @@ Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu
 Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan  
 [[paper](https://arxiv.org/pdf/2203.11991.pdf)]  [[code](https://github.com/botaoye/OSTrack)]
 
++ Tracking Every Thing in the Wild   
+Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu    
+[[paper](https://arxiv.org/pdf/2207.12978.pdf)]
+
 
 ## ECCV 2020 
 + PG-Net: Pixel to Global Matching Network for Visual Tracking  
