@@ -24,9 +24,6 @@ Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool
 + Transparent Object Tracking Benchmark  
 Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling  
 [[paper](https://arxiv.org/abs/2011.10875)]  [[code](https://hengfan2010.github.io/projects/TOTB/)]
-
-+ DepthTrack: Unveiling the Power of RGBD Tracking  
-[[paper](https://arxiv.org/abs/2108.13962)]  [[code](https://github.com/xiaozai/DeT)]
  
 + Object Tracking by Jointly Exploiting Frame and Event Domain  
 Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong  
