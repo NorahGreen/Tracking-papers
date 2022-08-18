@@ -13,8 +13,8 @@
 * [Adversarial-Learning](#Adversarial-Learning)
 * [Dataset](#Dataset)
 * [3D](#3D)
-* [Human Tracking](#Human Tracking)
-* [6-DoF Tracking](#6-DoF Tracking)
+* [Human-Tracking](#Human-Tracking)
+* [6-DoF-Tracking](#6-DoF-Tracking)
 
 ## SOT
 + Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework  ECCV 2022  
