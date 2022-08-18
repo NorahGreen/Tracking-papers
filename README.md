@@ -4,6 +4,6 @@
 
 #### * ECCV  [[By year](https://github.com/DomainGreen/Tracking-papers/blob/main/ECCV-papers.md)]  [[By category](https://github.com/DomainGreen/Tracking-papers/blob/main/ECCV-papers.md)]
 
-#### * ICCV  [[By year](https://github.com/DomainGreen/Tracking-papers/blob/main/ICCV-papers.md)]  [[By category](https://github.com/DomainGreen/Tracking-papers/blob/main/ICCV-papers.md)]
-#### Updated on 7/11/2022 
+#### * ICCV  [[By year](https://github.com/DomainGreen/Tracking-papers/blob/main/ICCV-papers.md)]  [[By category](https://github.com/DomainGreen/Tracking-papers/blob/main/ICCV-papers-category.md)]
+#### Updated on 8/18/2022 
 
