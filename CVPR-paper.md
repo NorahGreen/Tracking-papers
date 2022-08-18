@@ -1,11 +1,4 @@
 # Papers
-## Content
-* [CVPR-2022](#CVPR-2022)
-* [CVPR-2021](#CVPR-2021)
-* [CVPR-2020](#CVPR-2020)
-    * MOT
-    * 3D-tracking
-
 ## CVPR-2022
 + Global Tracking Transformers. CVPR 2022  
 Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krahenbuhl   
